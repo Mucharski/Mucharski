@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Node, SOLID and TDD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mucharski?tab=repositories](https://github.com/Mucharski?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Mucharski?tab=repositories)
 
 - 📫 How to reach me **igor.m99@hotmail.com**
 
-- ⚡ Resume **I already programmed in PHP, C, C# and Java. But, my love is JavaScript**
+- ⚡ Fun fact **I already programmed in PHP, C, C# and Java. But, my love is JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
