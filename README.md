@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **igor.m99@hotmail.com**
 
-- ⚡ Fun fact **I already programmed in PHP, C, C# and Java. But, my love is JavaScript**
+- ⚡ Fun fact **I already programmed in PHP, C, C# and Java. But my love is JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
