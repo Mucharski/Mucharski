@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucharski&label=Profile%20views&color=0e75b6&style=flat" alt="mucharski" /> </p>
 
-- 🌱 I’m currently learning **Node, SOLID and TDD**
+- 🌱 I’m currently working with C#, .NET and SQL Server
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Mucharski?tab=repositories)
 
 - 📫 How to reach me **igor.m99@hotmail.com**
-
-- ⚡ Fun fact **I already programmed in PHP, C, C# and Java. But my love is JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
