@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucharski&label=Profile%20views&color=0e75b6&style=flat" alt="mucharski" /> </p>
 
-- 🌱 I’m currently working with C#, .NET and SQL Server
+- 🌱 Currently working as a Backend Engineer.
 
-- 👨‍💻 All of my personal and college projects are available at [my repositories](https://github.com/Mucharski?tab=repositories)
+- 👨‍💻 [My projects](https://github.com/Mucharski?tab=repositories)
 
-- 📫 How to reach me **igor.m99@hotmail.com**
+- 📫 Reach me at: **igor.m99@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
